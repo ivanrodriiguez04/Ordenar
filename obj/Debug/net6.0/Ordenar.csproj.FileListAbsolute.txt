@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\bin\Debug\net6.0\Ordenar.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\bin\Debug\net6.0\Ordenar.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\bin\Debug\net6.0\Ordenar.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\bin\Debug\net6.0\Ordenar.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\bin\Debug\net6.0\Ordenar.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\obj\Debug\net6.0\Ordenar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\obj\Debug\net6.0\Ordenar.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\obj\Debug\net6.0\Ordenar.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\obj\Debug\net6.0\Ordenar.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\obj\Debug\net6.0\Ordenar.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\obj\Debug\net6.0\refint\Ordenar.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\obj\Debug\net6.0\Ordenar.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\obj\Debug\net6.0\Ordenar.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Ordenar\obj\Debug\net6.0\ref\Ordenar.dll
